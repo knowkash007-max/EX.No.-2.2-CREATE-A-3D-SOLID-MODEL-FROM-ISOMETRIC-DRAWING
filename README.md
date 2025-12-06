@@ -1,5 +1,5 @@
 ![edm ex 2 2](https://github.com/user-attachments/assets/92547901-0045-4daf-a1ec-a11690c69e58)# EX.No.-2.2 CREATE A 3D SOLID MODEL FROM ISOMETRIC DRAWING
-## Date :
+## Date :2-12-2025
 
 ## AIM: 
 
